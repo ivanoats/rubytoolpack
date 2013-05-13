@@ -1,6 +1,8 @@
 # Rubytoolpack
 
-TODO: Write a gem description
+This is a very silly gem that I wrote as an example for class. It simply
+rolls-up some common rails project dependencies that I like to have in my
+projects.
 
 ## Installation
 
@@ -18,12 +20,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+see above
 
 ## Contributing
 
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
+2a. Do not change the version number
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
